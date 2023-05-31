@@ -1,8 +1,4 @@
-
-
-
-
- * {
+* {
   margin: 0;
 }
 
@@ -38,11 +34,11 @@ body {
 }
 
 .card::before {
-  background-image: url('https://raw.githubusercontent.com/JeetSaru/3D-Popup-Card/main/images/panda.png');
+  background-image: url('images/panda.jpg');
 }
 
 .card::after {
-  background-image: url('https://raw.githubusercontent.com/JeetSaru/3D-Popup-Card/main/images/panda.png');
+  background-image: url('images/panda.png');
 }
 
 .card:hover::before,
